@@ -374,4 +374,11 @@ h2 {}
 }
 form {
     text-align: center;
+    align-items: center;
+    align-content: center;
+  }
+  #contact-form{
+    text-align: center;
+    align-items: center;
+    align-content: center;
   }
